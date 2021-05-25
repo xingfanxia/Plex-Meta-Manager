@@ -1,0 +1,222 @@
+collections:
+  三上悠亜:
+    smart_filter:
+      any:
+        actor: 三上悠亜
+      sort_by: originally_available.desc
+    summary: >
+      生日: 1993-08-16
+      年齡: 27
+      身高: 159cm
+      罩杯: F
+      胸圍: 84cm
+      腰圍: 58cm
+      臀圍: 88cm
+      愛好: アイドルDVD鑑賞
+    file_poster: assets/posters/三上悠亜2.jpg
+  水沢美心:
+    smart_filter:
+      any:
+        actor: 水沢美心
+      sort_by: originally_available.desc
+    # summary: >
+    #   生日: 1993-08-16
+    #   年齡: 27
+    #   身高: 159cm
+    #   罩杯: F
+    #   胸圍: 84cm
+    #   腰圍: 58cm
+    #   臀圍: 88cm
+    #   愛好: アイドルDVD鑑賞
+    file_poster: assets/posters/水沢美心.jpg
+  音あずさ:
+    smart_filter:
+      any:
+        actor: 音あずさ
+      sort_by: originally_available.desc
+    summary: >
+      身高: 160cm
+      罩杯: C
+      胸圍: 83cm
+      腰圍: 55cm
+      臀圍: 83cm
+    file_poster: assets/posters/音あずさ.jpg
+  天使もえ:
+    smart_filter:
+      any:
+        actor: 天使もえ
+      sort_by: originally_available.desc
+    summary: >
+      生日: 1994-07-10
+      年齡: 26
+      身高: 155cm
+      罩杯: D
+      胸圍: 84cm
+      腰圍: 57cm
+      臀圍: 82cm
+      出生地: 東京都
+      愛好: 料理、マッサージ
+    file_poster: assets/posters/天使もえ.jpg
+  小野夕子:
+    smart_filter:
+      any:
+        actor: 小野夕子
+      sort_by: originally_available.desc
+    summary: >
+      罩杯: G
+      胸圍: 92cm
+      腰圍: 56cm
+      臀圍: 88cm
+      出生地: 東京都
+      愛好: カメラ、映画鑑賞、なわとび
+    file_poster: assets/posters/小野夕子.jpg
+  篠田ゆう:
+    smart_filter:
+      any:
+        actor: 篠田ゆう
+      sort_by: originally_available.desc
+    summary: >
+      生日: 1991-07-12
+      年齡: 29
+      身高: 155cm
+      罩杯: F
+      胸圍: 88cm
+      腰圍: 60cm
+      臀圍: 88cm
+      出生地: 東京都
+      愛好: DVD鑑賞、ジャズダンス、ピアノ
+    file_poster: assets/posters/篠田ゆう.jpg
+  森沢かな:
+    smart_filter:
+      any:
+        actor: 森沢かな
+      sort_by: originally_available.desc
+    summary: >
+      身高: 160cm
+      胸圍: 82cm
+      腰圍: 56cm
+      臀圍: 86cm
+      愛好: 舞台鑑賞
+    file_poster: assets/posters/森沢かな.jpg   
+  本庄鈴:
+    smart_filter:
+      any:
+        actor: 本庄鈴
+      sort_by: originally_available.desc
+    summary: >
+      生日: 1997-01-12
+      年齡: 24
+      身高: 165cm
+      罩杯: C
+      胸圍: 85cm
+      腰圍: 59cm
+      臀圍: 88cm
+      出生地: 山梨県
+    file_poster: assets/posters/本庄鈴.jpg
+  園田みおん:
+    smart_filter:
+      any:
+        actor: 園田みおん
+      sort_by: originally_available.desc
+    summary: >
+      生日: 1994-11-11
+      年齡: 26
+      罩杯: G
+      胸圍: 90cm
+      腰圍: 58cm
+      臀圍: 88cm
+      出生地: 神奈川県
+      愛好: アニメ・カラオケ/
+    file_poster: assets/posters/園田みおん.jpg    
+  伊藤舞雪:
+    smart_filter:
+      any:
+        actor: 伊藤舞雪
+      sort_by: originally_available.desc
+    # summary: >
+    #   生日: 1994-11-11
+    #   年齡: 26
+    #   罩杯: G
+    #   胸圍: 90cm
+    #   腰圍: 58cm
+    #   臀圍: 88cm
+    #   出生地: 神奈川県
+    #   愛好: アニメ・カラオケ/
+    file_poster: assets/posters/伊藤舞雪.jpg            
+  朝桐光:
+    smart_filter:
+      any:
+        actor: 朝桐光
+      sort_by: originally_available.desc
+    summary: >
+      身高: 164cm
+      罩杯: F
+      胸圍: 88cm
+      腰圍: 58cm
+      臀圍: 85cm
+    file_poster: assets/posters/朝桐光.jpg                
+  花宮レイ:
+    smart_filter:
+      any:
+        actor: 花宮レイ
+      sort_by: originally_available.desc
+    summary: >
+      身高: 164cm
+      罩杯: F
+      胸圍: 88cm
+      腰圍: 58cm
+      臀圍: 85cm
+    file_poster: assets/posters/花宮レイ.jpg       
+  仁美まどか:
+    smart_filter:
+      any:
+        actor: 仁美まどか
+      sort_by: originally_available.desc
+    summary: >
+      生日: 1993-02-18
+      年齡: 28
+      身高: 155cm
+      罩杯: D
+      胸圍: 85cm
+      腰圍: 58cm
+      臀圍: 85cm
+      出生地: 神奈川県
+      愛好: ショッピング
+    file_poster: assets/posters/仁美まどか.jpg                     
+  良音なずな(成美このは):
+    smart_filter:
+      any:
+        actor: 成美このは
+      sort_by: originally_available.desc
+    # summary: >
+    #   生日: 1993-02-18
+    #   年齡: 28
+    #   身高: 155cm
+    #   罩杯: D
+    #   胸圍: 85cm
+    #   腰圍: 58cm
+    #   臀圍: 85cm
+    #   出生地: 神奈川県
+    #   愛好: ショッピング
+    file_poster: assets/posters/成美このは.jpg
+  西田カリナ:
+    smart_filter:
+      any:
+        actor: 西田カリナ
+      sort_by: originally_available.desc
+    summary: >
+      生日: 1995-07-07
+      年齡: 25
+      身高: 159cm
+      罩杯: B
+      胸圍: 78cm
+      腰圍: 56cm
+      臀圍: 82cm
+      出生地: ロサンゼルス
+      愛好: 作曲、料理、洋服作り  
+    file_poster: assets/posters/西田カリナ.jpg    
+  肛交:
+    smart_filter:
+      any:
+        genre: 肛交,肛门,肛内中出
+      sort_by: originally_available.desc
